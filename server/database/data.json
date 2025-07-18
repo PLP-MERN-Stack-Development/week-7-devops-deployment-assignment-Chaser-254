@@ -1,0 +1,31 @@
+{
+  "bugs": [
+    {
+      "id": "1",
+      "title": "Login form validation error",
+      "description": "Users are unable to login when password contains special characters",
+      "severity": "high",
+      "status": "open",
+      "assignee": "John Doe",
+      "reporter": "Jane Smith",
+      "createdAt": "2024-01-15T00:00:00.000Z",
+      "updatedAt": "2024-01-15T00:00:00.000Z",
+      "tags": ["authentication", "validation"]
+    },
+    {
+      "id": "2",
+      "title": "Dashboard loading performance issue",
+      "description": "Dashboard takes more than 5 seconds to load with large datasets",
+      "severity": "medium",
+      "status": "in-progress",
+      "assignee": "Mike Johnson",
+      "reporter": "Sarah Wilson",
+      "createdAt": "2024-01-14T00:00:00.000Z",
+      "updatedAt": "2024-01-16T00:00:00.000Z",
+      "tags": ["performance", "dashboard"]
+    }
+  ],
+  "users": [],
+  "nextBugId": 3,
+  "nextUserId": 1
+}
